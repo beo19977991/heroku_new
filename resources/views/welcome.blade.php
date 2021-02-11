@@ -202,13 +202,13 @@
       }
       /*  */
     @media only screen and (max-width: 600px) {
-        #countdown {
+        /* #countdown {
             width: 100% !important;
         }
         #countdown #tiles > span {
         width: 20%;
         max-width: 20%;
-      }
+      } */
     }
     </style>
   </head>
