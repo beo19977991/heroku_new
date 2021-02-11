@@ -12,7 +12,7 @@
         color: #eee;
         background: #da251c;
         margin: 0;
-        oveverflow: hidden;
+        overflow: hidden;
       }
       #countdown {
         width: 465px;
@@ -201,6 +201,8 @@
         }
       }
       /*  */
+      @media only screen and (max-width: 600px) {
+        }
     </style>
   </head>
   <body>
