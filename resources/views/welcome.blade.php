@@ -15,7 +15,7 @@
         overflow: hidden;
       }
       #countdown {
-        width: 465px;
+        width: 414px;
         height: 122px;
         text-align: center;
         background: #222;
@@ -77,8 +77,8 @@
       }
 
       #countdown #tiles > span {
-        width: 92px;
-        max-width: 92px;
+        width: 82px;
+        max-width: 82px;
         font: bold 48px "Droid Sans", Arial, sans-serif;
         text-align: center;
         color: #111;
