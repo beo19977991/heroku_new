@@ -15,7 +15,7 @@
         overflow: hidden;
       }
       #countdown {
-        width: 465px;
+        width: 414px;
         height: 122px;
         text-align: center;
         background: #222;
